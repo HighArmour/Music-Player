@@ -149,6 +149,6 @@ body {
   background-color: #4070F4;
   color: #fff;
   padding: .75rem 2.5rem;
-  font-weight: var(--font-semi);
+  font-weight: 600;
   border-radius: .5rem;
 }
