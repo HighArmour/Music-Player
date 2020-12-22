@@ -83,6 +83,92 @@ const songs = [
     discPath: 'assets/music/music10.mp3',
     duration: '3:59',
   },
+  {
+    title:'Heathens',
+    artist:'Twenty One Pilots',
+    coverPath:'assets/images/cover11.jpg',
+    discPath:'assets/music/music11.mp3',
+    duration: '3:37',
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  
+  {
+    title:
+    artist:
+    coverPath:
+    discPath:
+    duration:
+  },
+  
 ];
 
 // Load song initially
