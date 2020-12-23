@@ -180,6 +180,7 @@ const songs = [
     coverPath:'assets/images/cover24.jpeg',
     discPath:'assets/music/music24.mp3',
     duration:'3:43',
+    },
 ];
 
 // Load song initially
