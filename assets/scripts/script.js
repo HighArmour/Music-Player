@@ -158,7 +158,7 @@ const songs = [
     artist:'Celine Dion',
     coverPath'assets/images/cover21.jpg',
     discPath'assets/music/music21.mp3',
-    duration:
+    duration:'3:20',
   },
   
   {
@@ -166,20 +166,20 @@ const songs = [
     artist:'Taylor Swift',
     coverPath:'assets/images/cover22.jpg',
     discPath'assets/music/music22.mp3',
-    duration:
+    duration:'3:57',
   },
     title:'Memories',
     artist:'Maroon 5',
     coverPath:'assets/images/cover23.jpg',
     discPath'assets/music/music23.mp3',
-    duration:
+    duration:'3:15',
     },
     {
     title:'Birds',
     artist:'Imagine Dragons',
     coverPath:'assets/images/cover24.jpg',
     discPath'assets/music/music24.mp3',
-    duration:
+    duration:'3:43',
 ];
 
 // Load song initially
