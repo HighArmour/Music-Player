@@ -106,42 +106,42 @@ const songs = [
   },
   {
     title:'lovely'
-    artist:
+    artist:'Billie Eilish','Khalid',
     coverPath:'assets/images/cover14.jpg',
     discPath'assets/music/music14.mp3',
-    duration:
+    duration:'3:20',
   },
   {
     title:'Heart will go on',
-    artist:
+    artist:'Celine Dion',
     coverPath'assets/images/cover15.jpg',
     discPath'assets/music/music15.mp3',
-    duration:
+    duration:'4:40',
   },
   {
     title:'Can we kiss forever',
-    artist:
+    artist:'Kina',
     coverPath'assets/images/cover16.jpg',
     discPath'assets/music/music16.mp3',
-    duration:
+    duration:'3:08',
   },
   {
     title:'Dynamite',
-    artist:
+    artist:'BTS',
     coverPath'assets/images/cover17.jpg',
     discPath'assets/music/music17.mp3',
-    duration:
+    duration:'3:19'
   },
   {
     title:'Rockabye',
-    artist:
+    artist:'Anne-Marie','Sean Paul','Clean Bandit',
     coverPath'assets/images/cover18.jpg',
     discPath'assets/music/music18.mp3',
-    duration:
+    duration:'4:11',
   },
   {
     title:'Dont let me down',
-    artist:
+    artist:''
     coverPath:'assets/images/cover19.jpg',
     discPath:'assets/music/music19.mp3',
     duration:
