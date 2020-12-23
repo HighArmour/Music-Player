@@ -93,7 +93,7 @@ const songs = [
   {
     title: 'In the end',
     artist: 'Linkin Park',
-    coverPath: 'assets/images/cover12.jpeg',
+    coverPath: 'assets/images/cover12.png',
     discPath: 'assets/music/music12.mp3',
     duration: '3:38',
   },
