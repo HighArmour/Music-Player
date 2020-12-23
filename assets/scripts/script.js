@@ -168,6 +168,7 @@ const songs = [
     discPath:'assets/music/music22.mp3',
     duration:'3:57',
   },
+  {
     title:'Memories',
     artist:'Maroon 5',
     coverPath:'assets/images/cover23.jpeg',
@@ -180,7 +181,7 @@ const songs = [
     coverPath:'assets/images/cover24.jpeg',
     discPath:'assets/music/music24.mp3',
     duration:'3:43',
-    },
+  },
 ];
 
 // Load song initially
