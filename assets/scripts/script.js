@@ -130,32 +130,32 @@ const songs = [
     artist:'BTS',
     coverPath'assets/images/cover17.jpg',
     discPath'assets/music/music17.mp3',
-    duration:'3:19'
+    duration:'3:19',
   },
   {
     title:'Rockabye',
-    artist:'Anne-Marie','Sean Paul','Clean Bandit',
+    artist:'Anne-Marie',
     coverPath'assets/images/cover18.jpg',
     discPath'assets/music/music18.mp3',
     duration:'4:11',
   },
   {
     title:'Dont let me down',
-    artist:''
+    artist:'ChainSmokers',
     coverPath:'assets/images/cover19.jpg',
     discPath:'assets/music/music19.mp3',
-    duration:
+    duration: '3:38',
   },
   {
     title:'Roads untravelled',
-    artist:
+    artist:'Linkin Park',
     coverPath'assets/images/cover20.jpg',
     discPath'assets/music/music20.mp3',
     duration:
   },
   {
     title:'Ashes',
-    artist:
+    artist:'Celine Dion',
     coverPath'assets/images/cover21.jpg',
     discPath'assets/music/music21.mp3',
     duration:
@@ -169,14 +169,14 @@ const songs = [
     duration:
   },
     title:'Memories',
-    artist:
+    artist:'Maroon 5',
     coverPath:'assets/images/cover23.jpg',
     discPath'assets/music/music23.mp3',
     duration:
     },
     {
     title:'Birds',
-    artist:
+    artist:'Imagine Dragons',
     coverPath:'assets/images/cover24.jpg',
     discPath'assets/music/music24.mp3',
     duration:
