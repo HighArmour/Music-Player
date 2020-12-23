@@ -105,70 +105,81 @@ const songs = [
     duration:'5:07',
   },
   {
-    title:lovely
+    title:'lovely'
     artist:
-    coverPath:
-    discPath:
+    coverPath:'assets/images/cover14.jpg',
+    discPath'assets/music/music14.mp3',
     duration:
   },
   {
-    title:
+    title:'Heart will go on',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover15.jpg',
+    discPath'assets/music/music15.mp3',
     duration:
   },
   {
-    title:
+    title:'Can we kiss forever',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover16.jpg',
+    discPath'assets/music/music16.mp3',
     duration:
   },
   {
-    title:
+    title:'Dynamite',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover17.jpg',
+    discPath'assets/music/music17.mp3',
     duration:
   },
   {
-    title:
+    title:'Rockabye',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover18.jpg',
+    discPath'assets/music/music18.mp3',
     duration:
   },
   {
-    title:
+    title:'Dont let me down',
     artist:
-    coverPath:
-    discPath:
+    coverPath:'assets/images/cover19.jpg',
+    discPath:'assets/music/music19.mp3',
     duration:
   },
   {
-    title:
+    title:'Roads untravelled',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover20.jpg',
+    discPath'assets/music/music20.mp3',
     duration:
   },
   {
-    title:
+    title:'Ashes',
     artist:
-    coverPath:
-    discPath:
+    coverPath'assets/images/cover21.jpg',
+    discPath'assets/music/music21.mp3',
     duration:
   },
   
   {
-    title:
+    title:'Love story',
     artist:
-    coverPath:
-    discPath:
+    coverPath:'assets/images/cover22.jpg',
+    discPath'assets/music/music22.mp3',
     duration:
   },
-  
+    title:'Memories',
+    artist:
+    coverPath:'assets/images/cover23.jpg',
+    discPath'assets/music/music23.mp3',
+    duration:
+    },
+    {
+    title:'Birds',
+    artist:
+    coverPath:'assets/images/cover22.jpg',
+    discPath'assets/music/music22.mp3',
+    duration:
 ];
 
 // Load song initially
