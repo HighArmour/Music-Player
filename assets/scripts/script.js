@@ -173,7 +173,7 @@ const songs = [
     coverPath:'assets/images/cover23.jpeg',
     discPath:'assets/music/music23.mp3',
     duration:'3:15',
-    },
+  },
     {
     title:'Birds',
     artist:'Imagine Dragons',
