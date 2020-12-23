@@ -160,7 +160,6 @@ const songs = [
     discPath: 'assets/music/music21.mp3',
     duration: '3:20',
   },
-  
   {
     title: 'Love story',
     artist: 'Taylor Swift',
