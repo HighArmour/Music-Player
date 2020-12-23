@@ -91,21 +91,21 @@ const songs = [
     duration: '3:37',
   },
   {
-    title:
-    artist:
-    coverPath:
-    discPath:
-    duration:
+    title:'In the end',
+    artist:'Late.Linkin Park',
+   coverPath:'assets/images/cover12.jpg',
+    discPath:'assets/music/music12.mp3',
+    duration:'3:38',
   },
   {
-    title:
-    artist:
-    coverPath:
-    discPath:
-    duration:
+    title:'All of me',
+    artist:'John Legend',
+    coverPath:'assets/images/cover13.jpg',
+    discPath:'assets/music/music13.mp3',
+    duration:'5:07',
   },
   {
-    title:
+    title:lovely
     artist:
     coverPath:
     discPath:
