@@ -151,7 +151,7 @@ const songs = [
     artist:'Linkin Park',
     coverPath'assets/images/cover20.jpg',
     discPath'assets/music/music20.mp3',
-    duration:
+    duration:'3:50',
   },
   {
     title:'Ashes',
