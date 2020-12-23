@@ -177,8 +177,8 @@ const songs = [
     {
     title:'Birds',
     artist:
-    coverPath:'assets/images/cover22.jpg',
-    discPath'assets/music/music22.mp3',
+    coverPath:'assets/images/cover24.jpg',
+    discPath'assets/music/music24.mp3',
     duration:
 ];
 
