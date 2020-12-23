@@ -290,4 +290,4 @@ next.addEventListener('click', gotoNextSong.bind(null, false));
 
 // Move to different place in the song
 progressContainer.addEventListener('click', setProgress);
-Swal.fire('Built with ❤️ by Sourabh Mishra')
+
