@@ -105,7 +105,7 @@ const songs = [
     duration:'5:07',
   },
   {
-    title:'lovely'
+    title:'lovely',
     artist:'Billie Eilish','Khalid',
     coverPath:'assets/images/cover14.jpeg',
     discPath:'assets/music/music14.mp3',
@@ -162,25 +162,25 @@ const songs = [
   },
   
   {
-    title:'Love story',
-    artist:'Taylor Swift',
-    coverPath:'assets/images/cover22.jpeg',
-    discPath:'assets/music/music22.mp3',
-    duration:'3:57',
+    title: 'Love story',
+    artist: 'Taylor Swift',
+    coverPath: 'assets/images/cover22.jpeg',
+    discPath: 'assets/music/music22.mp3',
+    duration: '3:57',
   },
   {
-    title:'Memories',
-    artist:'Maroon 5',
-    coverPath:'assets/images/cover23.jpeg',
-    discPath:'assets/music/music23.mp3',
-    duration:'3:15',
+    title: 'Memories',
+    artist: 'Maroon 5',
+    coverPath: 'assets/images/cover23.jpeg',
+    discPath: 'assets/music/music23.mp3',
+    duration: '3:15',
   },
-    {
-    title:'Birds',
-    artist:'Imagine Dragons',
-    coverPath:'assets/images/cover24.jpeg',
-    discPath:'assets/music/music24.mp3',
-    duration:'3:43',
+  {
+    title: 'Birds',
+    artist: 'Imagine Dragons',
+    coverPath: 'assets/images/cover24.jpeg',
+    discPath: 'assets/music/music24.mp3',
+    duration: '3:43',
   },
 ];
 
