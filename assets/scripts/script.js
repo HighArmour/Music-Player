@@ -84,10 +84,10 @@ const songs = [
     duration: '3:59',
   },
   {
-    title:'Heathens',
-    artist:'Twenty One Pilots',
+    title: 'Heathens',
+    artist: 'Twenty One Pilots',
     coverPath:'assets/images/cover11.jpg',
-    discPath:'assets/music/music11.mp3',
+    discPath: 'assets/music/music11.mp3',
     duration: '3:37',
   },
   {
