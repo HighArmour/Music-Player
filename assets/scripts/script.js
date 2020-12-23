@@ -106,7 +106,7 @@ const songs = [
   },
   {
     title:'lovely',
-    artist:'Billie Eilish','Khalid',
+    artist:'Billie Eilish & Khalid',
     coverPath:'assets/images/cover14.jpeg',
     discPath:'assets/music/music14.mp3',
     duration:'3:20',
