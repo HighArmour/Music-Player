@@ -105,11 +105,11 @@ const songs = [
     duration:'5:07',
   },
   {
-    title:'lovely',
-    artist:'Billie Eilish & Khalid',
-    coverPath:'assets/images/cover14.jpeg',
-    discPath:'assets/music/music14.mp3',
-    duration:'3:20',
+    title: 'lovely',
+    artist: 'Billie Eilish & Khalid',
+    coverPath: 'assets/images/cover14.jpeg',
+    discPath: 'assets/music/music14.mp3',
+    duration: '3:20',
   },
   {
     title:'Heart will go on',
