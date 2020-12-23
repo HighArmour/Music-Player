@@ -163,7 +163,7 @@ const songs = [
   
   {
     title:'Love story',
-    artist:
+    artist:'Taylor Swift',
     coverPath:'assets/images/cover22.jpg',
     discPath'assets/music/music22.mp3',
     duration:
