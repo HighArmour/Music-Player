@@ -10,7 +10,7 @@ html {
 
 body {
   font-family: 'Poppins', 'Montserrat', sans-serif;
-  background-image: url(assets/wall/happy.jpg);
+  background-image: url('assets/wall/happy.jpg');
   display: flex;
   justify-content: center;
   align-items: center;
