@@ -181,6 +181,13 @@ const songs = [
     discPath: 'assets/music/music24.mp3',
     duration: '3:43',
   },
+  {
+    title: 'Give me love',
+    artist: 'Ed sheeran',
+    coverPath: 'assets/images/cover25.jpeg',
+    discPath: 'assets/music/music25.mp3',
+    duration: '4:23',
+  },
 ];
 
 // Load song initially
