@@ -11,7 +11,7 @@ html {
 body {
   font-family: 'Poppins', 'Montserrat', sans-serif;
   background-color: #000000;
-background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+  background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
   display: flex;
   justify-content: center;
   align-items: center;
