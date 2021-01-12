@@ -131,7 +131,8 @@ window.onload = () =>{
                   name='Ryuks Theme',
                   artist='Death Note',
                   image='assets/images/cover6.jpg',
-                  songUrl=''
+                  songUrl='assets/music/music6.mp3',
+                  duration='2:11',
                 }
                 
             ]
