@@ -125,7 +125,13 @@ window.onload = () =>{
                     artist : '',
                     image :'your-name.jpg',
                     songUrl :'Your-Name.mp3',
-                    duration :'05:43' 
+                    duration :'05:43',
+                },
+                {
+                  name='Ryuks Theme',
+                  artist='Death Note',
+                  image='assets/images/cover6.jpg',
+                  songUrl=''
                 }
                 
             ]
