@@ -132,7 +132,7 @@ window.onload = () =>{
                   artist='Death Note',
                   image='assets/images/cover6.jpg',
                   songUrl='assets/music/music6.mp3',
-                  duration='2:11',
+                  duration='2:11'
                 }
                 
             ]
